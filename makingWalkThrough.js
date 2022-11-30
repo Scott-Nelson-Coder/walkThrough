@@ -65,3 +65,5 @@ if(pikachuHealth > 0) {
     console.log("Pikachu survived")
     console.log("pikachu decided to run")
 }
+
+console.log("Pikachu lost the battle ")
